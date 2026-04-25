@@ -4,6 +4,7 @@
 .eclipse/
 .classpath
 .project
+bin/
 
 # Build Files
 target/
